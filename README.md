@@ -59,8 +59,8 @@ The following repositories are currently private and are therefore not accessibl
 ## GitHub at a glance
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=basharatreyaz&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight" alt="GitHub statistics">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basharatreyaz&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Most used languages">
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=basharatreyaz&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight" alt="GitHub statistics">
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=basharatreyaz&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Most used languages">
 </div>
 
 <div align="center">
