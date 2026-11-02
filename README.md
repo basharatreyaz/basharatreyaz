@@ -2,7 +2,7 @@
 
 <img src="assets/profile-header.svg" alt="Basharat Reyaz — WordPress Developer and Technical Support Engineer" width="100%">
 
-<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=WordPress+%26+PHP+Developer;SaaS+Technical+Support+Engineer;Building+useful+web+experiences;Debugging+%E2%80%A2+Automating+%E2%80%A2+Improving" alt="Animated introduction"></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=WordPress+%26+PHP+Developer;SaaS+Technical+Support+Engineer;Building+useful+web+experiences;Debugging+%E2%80%A2+Automating+%E2%80%A2+Improving" alt="Animated introduction">
 
 
 </div>
@@ -24,7 +24,7 @@ I'm **Basharat Reyaz**, a WordPress-focused developer and SaaS Technical Support
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=wordpress,php,mysql,js,html,css,python,git,github,linux,vscode&perline=6)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=wordpress,php,mysql,js,html,css,python,git,github,linux,vscode&perline=6)
 
 </div>
 
