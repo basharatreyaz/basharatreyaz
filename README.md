@@ -40,6 +40,11 @@ I'm **Basharat Reyaz**, a WordPress-focused developer and SaaS Technical Support
 This section is automatically updated from the public repositories on my GitHub account.
 
 <!-- PUBLIC-REPOS-START -->
+| Repository | Description |
+|---|---|
+| [College-of-Engineering-Technology-Website](https://github.com/basharatreyaz/College-of-Engineering-Technology-Website) | College website project. |
+| [Max-Diagnostic-Center](https://github.com/basharatreyaz/Max-Diagnostic-Center) | Diagnostic centre website project. |
+| [QuickQR](https://github.com/basharatreyaz/QuickQR) | Dynamic QR code SaaS project. |
 <!-- PUBLIC-REPOS-END -->
 
 <div align="center">
