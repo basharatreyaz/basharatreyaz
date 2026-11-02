@@ -4,8 +4,6 @@
 
 <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=WordPress+%26+PHP+Developer;SaaS+Technical+Support+Engineer;Building+useful+web+experiences;Debugging+%E2%80%A2+Automating+%E2%80%A2+Improving" alt="Animated introduction"></a>
 
-<a href="https://github.com/basharatreyaz?tab=followers"><img src="https://img.shields.io/github/followers/basharatreyaz?style=for-the-badge&logo=github&label=Followers&color=1f6feb" alt="Followers"></a>
-<img src="https://komarev.com/ghpvc/?username=basharatreyaz&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile views">
 
 </div>
 
@@ -37,18 +35,25 @@ I'm **Basharat Reyaz**, a WordPress-focused developer and SaaS Technical Support
   <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
 </p>
 
-## Selected projects
+## Public projects
 
-| Project | What it is |
+| Repository | Overview |
 |---|---|
-| [UptimeBot](https://github.com/basharatreyaz/uptimebot) | Uptime-monitoring project |
-| [IHATEPDF](https://github.com/basharatreyaz/IHATEPDF) | PDF utility project |
-| [Site Doctors](https://github.com/basharatreyaz/Site-doctors) | Website / WordPress project |
-| [Liveagency](https://github.com/basharatreyaz/Liveagency) | Web project |
-| [Brizy Cloud Cache Generator](https://github.com/basharatreyaz/Brizy-Cloud-Cache-Generator) | Brizy Cloud-related utility |
+| [QuickQR](https://github.com/basharatreyaz/QuickQR) | Dynamic QR code SaaS project with QR management, redirects and scan analytics. Built around a PHP backend and HTML, CSS and JavaScript frontend. |
+| [collegewebsite](https://github.com/basharatreyaz/collegewebsite) | Responsive multi-page college website for Kashmir College of Engineering & Technology, with admissions, academic programmes, notices and an administration portal. |
+
+## Other repositories
+
+The following repositories are currently private and are therefore not accessible to public profile visitors:
+
+- `maxcenter`
+- `iti`
+- `wp-frontend`
+- `wp-adminpanel`
+- `wp-backend`
 
 <div align="center">
-<a href="https://github.com/basharatreyaz?tab=repositories"><img src="https://img.shields.io/badge/Explore%20all%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"></a>
+<a href="https://github.com/basharatreyaz?tab=repositories"><img src="https://img.shields.io/badge/Explore%20public%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"></a>
 </div>
 
 ## GitHub at a glance
